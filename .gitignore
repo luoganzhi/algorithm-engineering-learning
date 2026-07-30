@@ -1,0 +1,15 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local and system files
+.DS_Store
+.env
+
+# Do not commit raw/private data
+data/raw/
