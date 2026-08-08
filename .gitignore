@@ -13,3 +13,10 @@ venv/
 
 # Do not commit raw/private data
 data/raw/
+
+# Download archives are reproducible from the documented UCI source.
+projects/01_student_risk_prediction/data/raw/*.zip
+projects/01_student_risk_prediction/data/raw/.student.zip_old
+projects/01_student_risk_prediction/data/raw/student-por.csv
+projects/01_student_risk_prediction/data/raw/student-merge.R
+projects/01_student_risk_prediction/data/raw/student.txt
